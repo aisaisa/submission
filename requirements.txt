@@ -2,4 +2,11 @@ altair
 numpy
 pandas
 pydeck
+scipy
+matplotlib
+plotly
+seaborn
+jupyter
 streamlit
+joblib
+scikit-learn
